@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Test NBA Players
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Clone this repository git clone https://github.com/rhoyos1985/test_nba.git
+- Enter the folder test_nba with cd test_nba.
 
 ## Available Scripts
 
